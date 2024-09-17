@@ -1,4 +1,4 @@
-# Resumo do lab - Conceitos de Cloud com Azure
+# Resumo do lab - Conceitos de Cloud com Azure, by Enzo Antonello
 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab "Conceitos de Cloud com Azure" na DIO.
 
