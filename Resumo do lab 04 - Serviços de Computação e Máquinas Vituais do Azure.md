@@ -74,11 +74,6 @@ O Azure Functions é um serviço PaaS que permite computação sem servidor (ser
 - **Emparelhamento de Rede**: Conecta redes privadas diretamente, facilitando a comunicação entre diferentes ambientes.
 - **Gateway de VPN**: Utilizado para enviar tráfego criptografado entre redes privadas e públicas.
 - **ExpressRoute**: Proporciona uma conexão privada e dedicada entre a infraestrutura da empresa e o Azure, com maior segurança e baixa latência.
-    
-    ![image.png](image.png)
-    
-    ![image.png](image%201.png)
-    
 
 ## DNS do Azure
 
